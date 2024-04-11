@@ -7695,7 +7695,7 @@ mxGraph.prototype.center = function(horizontal, vertical, cx, cy)
 mxGraph.prototype.zoom = function(factor, center)
 {
 	center = (center != null) ? center : this.centerZoom;
-	var scale = Math.round(this.view.scale * factor * 100) / 100;
+	var scale = Math.round(this.view.scale * factor * 10000) / 10000;
 	var state = this.view.getState(this.getSelectionCell());
 	factor = scale / this.view.scale;
 	
