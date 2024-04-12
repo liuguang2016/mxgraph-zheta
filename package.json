@@ -1,0 +1,31 @@
+{
+  "name": "mxgraph-zheta",
+  "version": "1.0.0",
+  "description": "mxgraph-zheta model",
+  "main": "dist/mxgraph-zheta.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dist": "gulp dist",
+    "deploy": "gulp deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/liuguang2016/mxgraph-zheta"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liuguang2016/mxgraph-zheta/issues"
+  },
+  "homepage": "https://github.com/liuguang2016/mxgraph-zheta#readme",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gh-pages": "^0.12.0",
+    "gulp": "^3.9.1",
+    "gulp-usemin": "^0.3.26",
+    "run-sequence": "^1.2.2",
+    "webpack": "^1.14.0"
+  }
+}
