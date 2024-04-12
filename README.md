@@ -1,21 +1,21 @@
-mxgraph-js
+mxgraph-zheta
 =======
 
 模块化mxgraph(基于版本v3.6.0).全局变量mx.
 
 使用方法:
 ```shell
-npm install mxgraph-js --save
+npm install mxgraph-zheta --save
 ```
 
 然后:
 ```js
-var mx = require('mxgraph-js');
+var mx = require('mxgraph-zheta');
 ```
 
 采用script方式加载.
 ```html
-<script src="./mxgraph-js"></script>
+<script src="./mxgraph-zheta"></script>
 ```
 然后:
 ```js

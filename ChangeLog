@@ -463,7 +463,7 @@
 - Changes sizer cursor in mxOutline to nwse-resize [JavaScript]
 - Changes mxCellRenderer.createShape to return shape instead of updating state [JavaScript]
 - Fixes zoom buttons for chromeless mode in grapheditor
-- Adds mxgraph-js with package.json for automated builds [JavaScript]
+- Adds mxgraph-zheta with package.json for automated builds [JavaScript]
 - Adds mxConnectionHandler.snapToPreview [JavaScript]
 - Adds mxEdgeHandler.isAddVirtualBendEvent, mxEdge/VertexHandler.isCustomHandleEvent [JavaScript]
 - Simplified edge entries for general sidebar in grapheditor

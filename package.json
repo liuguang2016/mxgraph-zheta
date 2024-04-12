@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/liuguang2016/mxgraph-zheta"
+    "url": "git+https://liuguang2016:c844033231@github.com/liuguang2016/mxgraph-zheta.git"
   },
   "author": "",
   "license": "ISC",
