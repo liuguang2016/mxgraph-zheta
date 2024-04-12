@@ -1,6 +1,6 @@
 {
   "name": "mxgraph-zheta",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "mxgraph-zheta model",
   "main": "dist/mxgraph-zheta.js",
   "directories": {
